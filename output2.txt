@@ -1,0 +1,18 @@
+
+C:\Users\ELCOT\Desktop\Fake review Detection>git config user.email "madhan@gmail.com" 
+
+C:\Users\ELCOT\Desktop\Fake review Detection>git config user.name "Madhan Pitchaimani" 
+
+C:\Users\ELCOT\Desktop\Fake review Detection>git commit -m "first commit" 
+[main (root-commit) d229f86] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+C:\Users\ELCOT\Desktop\Fake review Detection>git branch -M main 
+
+C:\Users\ELCOT\Desktop\Fake review Detection>git remote set-url origin https://github.com/madhanpitchaimani/Fake-Review-Detection.git 
+
+C:\Users\ELCOT\Desktop\Fake review Detection>git push -u origin main 
+To https://github.com/madhanpitchaimani/Fake-Review-Detection.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.

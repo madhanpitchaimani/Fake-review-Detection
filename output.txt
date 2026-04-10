@@ -1,0 +1,29 @@
+
+C:\Users\ELCOT\Desktop\Fake review Detection>git init 
+Reinitialized existing Git repository in C:/Users/ELCOT/Desktop/Fake review Detection/.git/
+
+C:\Users\ELCOT\Desktop\Fake review Detection>git add README.md 
+
+C:\Users\ELCOT\Desktop\Fake review Detection>git commit -m "first commit" 
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'ELCOT@DESKTOP-UVIULNA.(none)')
+
+C:\Users\ELCOT\Desktop\Fake review Detection>git branch -M main 
+
+C:\Users\ELCOT\Desktop\Fake review Detection>git remote add origin https://github.com/madhanpitchaimani/Fake-Review-Detection.git 
+error: remote origin already exists.
+
+C:\Users\ELCOT\Desktop\Fake review Detection>git push -u origin main 
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/madhanpitchaimani/Fake-Review-Detection.git'

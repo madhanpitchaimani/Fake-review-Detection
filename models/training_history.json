@@ -1,0 +1,29 @@
+{
+    "baseline": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "auc": 1.0
+    },
+    "integrated": {
+        "accuracy": 1.0,
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "auc": 1.0
+    },
+    "improvement": {
+        "accuracy": 0.0,
+        "auc": 0.0
+    },
+    "features_added": [
+        "Review Length",
+        "Review Subjectivity",
+        "Review Readability",
+        "Review Extremity",
+        "Internal Consistency",
+        "External Consistency"
+    ],
+    "training_date": "2026-04-09 12:02:16"
+}

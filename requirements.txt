@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+torch
+scikit-learn
+pandas
+numpy
+imbalanced-learn
+shap
+lime
+pydantic
