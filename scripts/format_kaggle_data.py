@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import re
-import os
+import os    
 
 input_path = "data/Amazon_Reviews.csv"
 output_path = "data/amazon_reviews_ready.csv"
